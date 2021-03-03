@@ -1,0 +1,2 @@
+(this.webpackJsonpfirstreactpro=this.webpackJsonpfirstreactpro||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);var r=c(0),n=(c(2),c(3));c.n(n).a.render(Object(r.jsxs)(r.Fragment,{children:[Object(r.jsxs)("h1",{children:[" ","My name is ".concat("arefin"," ").concat("ahmed")," "]}),Object(r.jsxs)("h1",{children:[" My lucky number is ",10," "]})]}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.eddc6cb1.chunk.js.map
